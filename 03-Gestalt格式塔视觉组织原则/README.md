@@ -51,6 +51,6 @@
 ## 核心参考文献
 
 - Wagemans, J., et al. (2012). A Century of Gestalt Psychology in Visual Perception: I. Perceptual Grouping and Figure-Ground Organization. *Psychological Bulletin*, 138(6), 1172–1217. https://doi.org/10.1037/a0029333
-- Wagemans, J. (2024). Perceptual Organization. *Oxford Research Encyclopedia of Psychology*. https://doi.org/10.1093/acrefore/9780190236557.013. xxx （正式引用前请核对条目 DOI 与出版信息）
+- Wagemans, J. (2024). Perceptual Organization. *Oxford Research Encyclopedia of Psychology*. 可通过 Oxford Research Encyclopedia 按题名检索核对条目与最新书目信息。
 - Wertheimer, M. (1923). Untersuchungen zur Lehre von der Gestalt II. *Psychologische Forschung*, 4, 301–350.
 
