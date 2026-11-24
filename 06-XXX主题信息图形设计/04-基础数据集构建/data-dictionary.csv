@@ -1,0 +1,8 @@
+field_name,display_name,data_type,measurement_scale,unit_or_format,cell_rule,source,missing_rule,example
+record_id,记录唯一编号,string,identifier,,one ID per record,project generated,not allowed,R0001
+name,名称,string,nominal,,one name per cell,,,
+value,数值,number,ratio_or_interval,define unit,one numeric value per cell,,,
+date,日期,date,temporal,YYYY-MM-DD,one date per cell,,,
+latitude,纬度,number,ratio,decimal degrees,one coordinate per cell,,,
+longitude,经度,number,ratio,decimal degrees,one coordinate per cell,,,
+image_ref,图像引用,string,identifier,relative path or URL,one image reference per cell,,,
