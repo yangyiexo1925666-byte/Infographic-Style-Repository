@@ -1,0 +1,9 @@
+record_id,record_type,name,visible_count,unit,source_status,notes
+ORG01,organization,Alcoa,19,,visible_in_user_image,计数指标定义待核实
+ORG02,organization,CSIRO,33,,visible_in_user_image,计数指标定义待核实
+ORG03,organization,DuPont,22,,visible_in_user_image,计数指标定义待核实
+ORG04,organization,Ford,24,,visible_in_user_image,计数指标定义待核实
+ORG05,organization,Fraunhofer,35,,visible_in_user_image,计数指标定义待核实
+ORG06,organization,GE,32,,visible_in_user_image,计数指标定义待核实
+ORG07,organization,Intel,22,,visible_in_user_image,计数指标定义待核实
+ORG08,organization,P&G,14,,visible_in_user_image,计数指标定义待核实
