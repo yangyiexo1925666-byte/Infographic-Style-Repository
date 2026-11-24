@@ -1,0 +1,8 @@
+record_type,record_id,field,value,unit,period,source_status,notes
+summary,METRIC-01,items_total,22,items,3 months,visible_in_user_image,图面右上角可读
+summary,METRIC-02,items_sold,16,items,3 months,visible_in_user_image,图面右上角可读
+summary,METRIC-03,crochet_time_total,96,hours,3 months,visible_in_user_image,图面右上角可读
+summary,METRIC-04,max_crochet_time_in_day,10,hours/day,3 months,visible_in_user_image,图面右上角可读
+time_dimension,TIME-01,month,January,,year_unknown,visible_in_user_image,具体年份待核实
+time_dimension,TIME-02,month,February,,year_unknown,visible_in_user_image,具体年份待核实
+time_dimension,TIME-03,month,March,,year_unknown,visible_in_user_image,具体年份待核实
