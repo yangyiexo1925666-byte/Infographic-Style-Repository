@@ -1,0 +1,25 @@
+record_id,record_type,year,metric,value,unit,category,source_status,notes
+E2010,edition,2010,,,,,visible_in_user_image,图面可见年份节点
+E2011,edition,2011,,,,,visible_in_user_image,图面可见年份节点
+E2012,edition,2012,,,,,visible_in_user_image,图面可见年份节点
+E2013,edition,2013,,,,,visible_in_user_image,图面可见年份节点
+E2014,edition,2014,,,,,visible_in_user_image,图面可见年份节点
+E2015,edition,2015,,,,,visible_in_user_image,图面可见年份节点
+E2016,edition,2016,,,,,visible_in_user_image,图面可见年份节点
+E2017,edition,2017,,,,,visible_in_user_image,图面可见年份节点
+E2018,edition,2018,,,,,visible_in_user_image,图面可见年份节点
+A01,festival_summary,2018,scenarios,3,count,,visible_in_user_image,图面底部摘要
+A02,festival_summary,2018,festival_dates,23-25 March,,,visible_in_user_image,图面文字为23 24 y 25 de marzo
+A03,festival_summary,2018,international_artists,30,artists,,visible_in_user_image,图面底部摘要
+A04,festival_summary,2018,national_artists,25,artists,,visible_in_user_image,图面底部摘要
+A05,festival_summary,2018,total_artists,55,artists,,visible_in_user_image,图面底部摘要
+A06,festival_summary,2018,artist_investment,3000000,USD,,visible_in_user_image,图面标注3 millones de dólares 投资定义待核实
+V01,attendance_value,,attendance,2600,people,,visible_value_year_unverified,图面可读数字 与年份对应关系待核实
+V02,attendance_value,,attendance,4500,people,,visible_value_year_unverified,图面可读数字 与年份对应关系待核实
+V03,attendance_value,,attendance,6000,people,,visible_value_year_unverified,图面可读数字 与年份对应关系待核实
+V04,attendance_value,,attendance,25000,people,,visible_value_year_unverified,图面可读数字 与年份对应关系待核实
+V05,attendance_value,,attendance,45000,people,,visible_value_year_unverified,图面可读数字 与年份对应关系待核实
+V06,attendance_value,,attendance,50000,people,,visible_value_year_unverified,图面可读数字 与年份对应关系待核实
+V07,attendance_value,,attendance,60000,people,,visible_value_year_unverified,图面可读数字 与年份对应关系待核实
+V08,attendance_value,,attendance,65000,people,,visible_value_year_unverified,图面可读数字 与年份对应关系待核实
+V09,attendance_value,,attendance,75000,people,,visible_value_year_unverified,图面可读数字 与年份对应关系待核实
