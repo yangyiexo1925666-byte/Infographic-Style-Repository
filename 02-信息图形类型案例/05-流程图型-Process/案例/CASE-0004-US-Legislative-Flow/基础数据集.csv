@@ -1,0 +1,9 @@
+record_id,record_type,stage_order,stage_name,count,unit,parent_stage,category,source_status,notes
+S01,stage,1,Introduced,1181,bills,,,"visible_in_user_image","图面可读汇总数"
+S02,stage,2,In Committee,770,bills,Introduced,,"visible_in_user_image","阶段关系依据图面阅读顺序；具体口径待原始来源核验"
+S03,stage,3,Crossed Over,340,bills,In Committee,,"visible_in_user_image","原词保留；含义待核实"
+S04,stage,4,Passed,69,bills,Crossed Over,,"visible_in_user_image","阶段关系依据图面阅读顺序；具体口径待原始来源核验"
+S05,stage,5,Signed,49,bills,Passed,,"visible_in_user_image","图面可读汇总数"
+O01,outcome,6,Restrictive Bills,18,bills,Signed,Restrictive Bills,"visible_in_user_image","签署结果分类"
+O02,outcome,6,Mixed Effect Bills,6,bills,Signed,Mixed Effect Bills,"visible_in_user_image","签署结果分类"
+O03,outcome,6,Expansive Bills,25,bills,Signed,Expansive Bills,"visible_in_user_image","签署结果分类；18+6+25=49"
